@@ -66,6 +66,4 @@ python predict.py -i input.csv -o output.csv -m model.pickle -d descriptors.json
 
 含有无效描述符的分子会被自动剔除，并在终端输出被剔除的行索引。
 
-## License
 
-MIT
